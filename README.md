@@ -1,10 +1,4 @@
-<h3 align="center">
-Hi there, I'm Francesco</a> 👋
-</h3>
-
-<h2 align="center">
-I'm a Web Developer 💻!
-</h2> 
+<img src="https://media.licdn.com/dms/image/D4D16AQFqWrI4S3pj6A/profile-displaybackgroundimage-shrink_350_1400/0/1698834915408?e=1706745600&v=beta&t=kKl2hKgNIJzXH7RGURRRyLYqxQObl-oGmBR5FV8-JQo"/>
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
@@ -18,10 +12,8 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+- New Next.js Things
+- Supabase  
 
 ## 💼 Technical Skills
 
