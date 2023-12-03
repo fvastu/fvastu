@@ -42,3 +42,6 @@ I'm enthusiastic about embracing change and fostering innovation in the ever-evo
 ## 📈 GitHub Stats 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+
+## 📊 GitHub Contributions
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=fvastu&theme=radical)
