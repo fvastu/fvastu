@@ -1,4 +1,5 @@
-![Profile Background](https://github.com/fvastu/fvastu/assets/43243596/4e3f5835-a4b5-4959-906a-d3d0d05106ee)
+![Profile Background](https://github.com/fvastu/fvastu/assets/43243596/d775ea4f-922a-4555-b8b0-17c00360f48d)
+
 
 Hey there! 👋 I thrive on transforming ideas into code, exploring novel technologies, and discovering innovative patterns to solve problems. 
 My passion lies in the dynamic realm of turning concepts into tangible solutions. 
