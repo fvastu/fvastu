@@ -44,5 +44,7 @@ I'm enthusiastic about embracing change and fostering innovation in the ever-evo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvastu&layout=compact&hide_progress=true)](https://github.com/fvastu)
 
+![Top Langs](https://3kgblnd8-3000.euw.devtunnels.ms/api)
+
 ## 📊 GitHub Contributions
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=fvastu&theme=radical)
