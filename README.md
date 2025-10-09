@@ -8,18 +8,6 @@ I'm enthusiastic about embracing change and fostering innovation in the ever-evo
 
 💬 If you have any questions or feedback, feel free to reach out to me!
 
-## 🔭 Currently Working On
-
-- Reviving old projects
-- Exploring Next.JS
-- Mastering ChakraUI
-- Enhancing my CSS skills
-
-## 🌱 Currently Learning
-
-- New features in Next.js
-- Supabase!
-
 
 ## 💼 Technical Skills
 
